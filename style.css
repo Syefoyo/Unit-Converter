@@ -1,0 +1,64 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#hi {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.input {
+  width: 100px;
+}
+h1 {
+  text-align: center;
+  display: block;
+}
+#myh2 {
+  display: block;
+  text-align: center; 
+  background-color: #cec2ff;
+  color: azure;
+}
+#bot {
+  display: block;
+  text-align: center;
+  background-color: #cec2ff;
+  color: white;
+}
+body {
+  background-color: teal;
+}
+.ok {
+  color: white;
+  display: block;
+  text-align: center;
+}
+em {
+  text-align: center;
+  display: block;
+}
+#po {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+span {
+  display: block;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-top: auto;
+  margin-right: auto;
+  text-align: center;
+}
+img {
+  width: 365px;
+}
+#tuto {
+  color: orange;
+  font-size: 30px;
+}
+#tute {
+  color: #ffee00;
+  font-size: 30px;
+}
